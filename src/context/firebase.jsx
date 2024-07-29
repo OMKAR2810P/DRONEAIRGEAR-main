@@ -24,12 +24,12 @@ const FirebaseContext = createContext(null);
 //   };
 
   const firebaseConfig = {
-    apiKey: "AIzaSyCaqqHM-cVvSEMU7f6sIZJz-GBT8AoEok0",
+    apiKey: "enter your api here",
     authDomain: "drone-b9888.firebaseapp.com",
     projectId: "drone-b9888",
     storageBucket: "drone-b9888.appspot.com",
     messagingSenderId: "838030468344",
-    appId: "1:838030468344:web:c8fb6fef2db9caf21b070d",
+    appId: "enter your api here",
     measurementId: "G-MYBWL7FC3N"
   };
 export const useFirebase = () => useContext(FirebaseContext);       
